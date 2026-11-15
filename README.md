@@ -8,7 +8,7 @@ for publishing in Germany. Hosted on GitHub Pages, no cookies, no tracking,
 no build step.
 
 - [Play the free demo](https://devraaven.itch.io/spacediver)
-- [Watch the trailer](https://www.youtube.com/watch?v=DGfWt6BgfVw)
+- [Watch the trailer](https://www.youtube.com/watch?v=IgSqcKyKy_I)
 
 **Live:** <https://paulriisk.github.io/spacediver-site/>
 
